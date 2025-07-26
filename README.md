@@ -92,7 +92,7 @@ This project joins multiple datasets to provide insights into driver and constru
   A multi-line chart showing how constructor dominance changed over time, illustrating trends and shifts in team performance season by season.
 
 You can explore the interactive dashboard live on Tableau Public here:  
-[View Dashboard on Tableau Public]([https://public.tableau.com/profile/your-profile#!/vizhome/your-dashboard](https://public.tableau.com/views/Book1_17535576644430/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+[View Dashboard on Tableau Public](https://public.tableau.com/views/Book1_17535576644430/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## How to Use the Workbook
 

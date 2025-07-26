@@ -72,3 +72,33 @@ The final model I chose was Random Forest Classifier. The final model function w
 ![Image](https://user-images.githubusercontent.com/100377723/256389336-7e546b7c-869e-495c-a521-75425f11e6e0.png)
 
 The predictions can be found in the file.
+
+# Formula 1 Championship Dashboard
+An interactive Tableau dashboard analyzing historical Formula 1 data.
+This project joins multiple datasets to provide insights into driver and constructor performance, race locations, and trends over time.
+
+## Dashboard Features
+
+- **Wins by Driver:**  
+  A bar chart showing the total number of race wins by each Formula 1 driver across the entire dataset.
+
+- **Wins by Constructor:**  
+  A bar chart summarizing the number of wins by each constructor (team), highlighting dominant teams in F1 history.
+
+- **F1 Race Locations Map:**  
+  A geographic map plotting all the circuits where Formula 1 races have taken place. Circle sizes indicate the number of races held at each circuit, and colors represent the country location.
+
+- **Constructor Wins by Year:**  
+  A multi-line chart showing how constructor dominance changed over time, illustrating trends and shifts in team performance season by season.
+
+You can explore the interactive dashboard live on Tableau Public here:  
+[View Dashboard on Tableau Public]([https://public.tableau.com/profile/your-profile#!/vizhome/your-dashboard](https://public.tableau.com/views/Book1_17535576644430/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+
+## How to Use the Workbook
+
+If you want to download and explore the Tableau workbook:
+
+1. Download the `.twbx` file from this repository.  
+2. Open it with [Tableau Desktop](https://www.tableau.com/products/desktop) or [Tableau Public](https://public.tableau.com/en-us/s/).
+
+
